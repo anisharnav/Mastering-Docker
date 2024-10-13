@@ -27,6 +27,7 @@ Paste Like below
 ![image](https://github.com/saikiranpi/Mastering-Docker/assets/109568252/1ad08bf8-593e-4579-921c-0f7d8938c8ee)
 
 mount -a
+df -h
 
 # Why We Need a Custom Network for Containers
 
